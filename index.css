@@ -16,6 +16,7 @@ h1 span{
     color: palevioletred;
 }
 
+
 .card {
     margin-left: 20px;
     background:#fff;
@@ -32,12 +33,28 @@ h1 span{
     padding:5px 10px;
     border-radius:20px
 }
-button {
-    background: #f70eff;
-}
+
 .stars {
     color: gold;
 }
 .card-body {
     font-size: 13px;
+=======
+.main-left button{
+    background: palevioletred;
+    color: azure;
+    padding: 5px 15px;
+    font-size: larger;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+}
+
+.section{
+    text-align: center;
+    
+}
+h2{
+color: palevioletred;
+padding: 5px 0px;
 }
