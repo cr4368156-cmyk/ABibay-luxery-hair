@@ -1,9 +1,12 @@
+body{
+    margin: 0px 100px;
+    padding-top: 100px;
+}
 .main{
     display:grid;
     grid-template-columns: 1fr 1fr;
 }
 .main-left{
-    padding: 100px;
 }
 .main-left h1{
     font-size: xx-large;
@@ -11,4 +14,13 @@
 }
 h1 span{
     color: palevioletred;
+}
+.main-left button{
+    background: palevioletred;
+    color: azure;
+    padding: 5px 15px;
+    font-size: larger;
+    border-radius: 15px;
+    outline: none;
+    border: none;
 }
