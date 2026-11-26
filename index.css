@@ -15,6 +15,31 @@ body{
 h1 span{
     color: palevioletred;
 }
+
+
+.card {
+    margin-left: 20px;
+    background:#fff;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 2px 10px rgba(0,0,0,.05);
+    position:relative;
+    padding-bottom:10px
+}
+.tag {
+    color:#f70eff;
+    font-size:25px;
+    font-weight:bold;
+    padding:5px 10px;
+    border-radius:20px
+}
+
+.stars {
+    color: gold;
+}
+.card-body {
+    font-size: 13px;
+=======
 .main-left button{
     background: palevioletred;
     color: azure;
