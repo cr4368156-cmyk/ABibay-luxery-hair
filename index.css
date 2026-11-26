@@ -1,6 +1,8 @@
 .main{
     display:grid;
     grid-template-columns: 1fr 1fr;
+    background-color: black;
+    color: white;
 }
 .main-left{
     padding: 100px;
@@ -11,4 +13,11 @@
 }
 h1 span{
     color: palevioletred;
+}
+.collection{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.top{
+    color: pink;
 }
