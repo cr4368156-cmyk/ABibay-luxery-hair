@@ -24,3 +24,12 @@ h1 span{
     outline: none;
     border: none;
 }
+
+.section{
+    text-align: center;
+    
+}
+h2{
+color: palevioletred;
+padding: 5px 0px;
+}
